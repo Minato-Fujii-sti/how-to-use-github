@@ -1,2 +1,2 @@
 # how-to-use-github
-githubの使い方を説明するためのリポジトリ
+githubの使い方を説明するためのリポジトリです。
